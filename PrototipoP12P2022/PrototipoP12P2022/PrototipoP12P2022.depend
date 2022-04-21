@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1650565745 source:c:\users\usuario\desktop\p1parcial2\prototipop12p2022\prototipop12p2022\main.cpp
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"Clslogin.h"
+
+1650565745 c:\users\usuario\desktop\p1parcial2\prototipop12p2022\prototipop12p2022\include\clslogin.h
+	<string>
+	<iostream>
+
+1650565745 source:c:\users\usuario\desktop\p1parcial2\prototipop12p2022\prototipop12p2022\src\clslogin.cpp
+	"ClsLogin.h"
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstring>
+
